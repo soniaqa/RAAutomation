@@ -1,0 +1,22 @@
+16:16:57 [main] INFO  Log4jDemo.LogMethods - This is information message
+16:16:57 [main] DEBUG Log4jDemo.LogMethods - This is degug message
+16:16:57 [main] ERROR Log4jDemo.LogMethods - This is error message
+16:16:57 [main] FATAL Log4jDemo.LogMethods - This is fatal message
+16:16:57 [main] INFO  Log4jDemo.LogMethods - This is information message
+16:16:57 [main] DEBUG Log4jDemo.LogMethods - This is degug message
+16:16:57 [main] ERROR Log4jDemo.LogMethods - This is error message
+16:16:57 [main] FATAL Log4jDemo.LogMethods - This is fatal message
+16:19:44 [main] INFO  Log4jDemo.LogMethods - This is information message
+16:19:44 [main] DEBUG Log4jDemo.LogMethods - This is degug message
+16:19:44 [main] ERROR Log4jDemo.LogMethods - This is error message
+16:19:44 [main] FATAL Log4jDemo.LogMethods - This is fatal message
+16:19:44 [main] INFO  Log4jDemo.LogMethods - This is information message
+16:19:44 [main] DEBUG Log4jDemo.LogMethods - This is degug message
+16:19:44 [main] ERROR Log4jDemo.LogMethods - This is error message
+16:19:44 [main] FATAL Log4jDemo.LogMethods - This is fatal message
+16:30:44 [main] INFO  Log4jDemo.SauceDemo - Browser Opened
+16:30:44 [main] INFO  Log4jDemo.SauceDemo - Entered Username
+16:30:44 [main] INFO  Log4jDemo.SauceDemo - Entered Password
+16:30:44 [main] INFO  Log4jDemo.SauceDemo - Clicked on Login Button
+16:30:45 [main] INFO  Log4jDemo.SauceDemo - Got The Title Of The Page
+16:30:45 [main] INFO  Log4jDemo.SauceDemo - Browser is closed
